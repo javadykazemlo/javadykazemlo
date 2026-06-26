@@ -2,20 +2,20 @@
 
 Computer Engineering Student | C++ Developer | AI Enthusiast
 
-## 💻 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,linux,git,github,html,css,vscode" />
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,linux,git,github,html,vscode,cmake" />
 </p>
+
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=javadykazemlo&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=javadykazemlo&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=javadykazemlo&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=javadykazemlo&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=javadykazemlo&theme=tokyonight&no-frame=true&row=1)
+![](https://streak-stats.demolab.com?user=javadykazemlo&theme=tokyonight&hide_border=true)
 
 ## 🚀 Current Focus
 
