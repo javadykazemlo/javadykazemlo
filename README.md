@@ -26,3 +26,14 @@ Computer Engineering Student | C++ Developer | AI Enthusiast
 - Building software projects in C++
 - Learning AI and Web Development
 - Improving problem-solving skills
+
+
+<h3 align="left">🌐 Socials:</h3>
+<p align="left">
+  <a href="https://www.instagram.com/javady_kz" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="30" />
+  </a>
+  <a href="https://t.me/Javadikaz" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="30" />
+  </a>
+</p>
